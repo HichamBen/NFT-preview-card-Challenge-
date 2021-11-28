@@ -18,7 +18,7 @@ section {
 .card {
     background-color: hsl(216, 50%, 16%);
     width: 340px;
-    height: 70%;
+    height: 80%;
     margin: auto;
     display: grid;
     grid-template: 58% 30% 12% / minmax(340px, 0.25fr);
