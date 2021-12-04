@@ -8,7 +8,7 @@ body {
 }
 
 /* Formating ".main" background that hold nft-card*/
-section {
+main {
     background-color: hsl(217, 54%, 11%);
     padding-top: 10%;
     height: 900px;
